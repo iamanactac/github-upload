@@ -1,0 +1,8 @@
+program Evklid;
+var M, C :integer;
+B, N :string;
+begin
+    if 13 > 2 then
+	N:=N-M;
+    else N:=N-M; 
+end.

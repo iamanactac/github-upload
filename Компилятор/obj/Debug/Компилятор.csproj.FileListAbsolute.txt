@@ -1,0 +1,17 @@
+C:\Users\dom25\OneDrive\Desktop\Компилятор\Компилятор\obj\Debug\Компилятор.csprojAssemblyReference.cache
+C:\Users\dom25\OneDrive\Desktop\Компилятор\Компилятор\obj\Debug\Компилятор.csproj.CoreCompileInputs.cache
+C:\Users\dom25\OneDrive\Desktop\Компилятор\Компилятор\bin\Debug\Компилятор.exe.config
+C:\Users\dom25\OneDrive\Desktop\Компилятор\Компилятор\bin\Debug\Компилятор.exe
+C:\Users\dom25\OneDrive\Desktop\Компилятор\Компилятор\bin\Debug\Компилятор.pdb
+C:\Users\dom25\OneDrive\Desktop\Компилятор\Компилятор\obj\Debug\Компилятор.exe
+C:\Users\dom25\OneDrive\Desktop\Компилятор\Компилятор\obj\Debug\Компилятор.pdb
+D:\ВУЗ\8трим\ЯП\Компилятор\Компилятор\bin\Debug\Компилятор.exe.config
+D:\ВУЗ\8трим\ЯП\Компилятор\Компилятор\bin\Debug\Компилятор.exe
+D:\ВУЗ\8трим\ЯП\Компилятор\Компилятор\bin\Debug\Компилятор.pdb
+D:\ВУЗ\8трим\ЯП\Компилятор\Компилятор\obj\Debug\Компилятор.csprojAssemblyReference.cache
+D:\ВУЗ\8трим\ЯП\Компилятор\Компилятор\obj\Debug\Компилятор.csproj.CoreCompileInputs.cache
+D:\ВУЗ\8трим\ЯП\Компилятор\Компилятор\obj\Debug\Компилятор.exe
+D:\ВУЗ\8трим\ЯП\Компилятор\Компилятор\obj\Debug\Компилятор.pdb
+D:\ВУЗ\8трим\ЯП\Компилятор\Компилятор\bin\Debug\System.Numerics.Vectors.dll
+D:\ВУЗ\8трим\ЯП\Компилятор\Компилятор\bin\Debug\System.Numerics.Vectors.xml
+D:\ВУЗ\8трим\ЯП\Компилятор\Компилятор\obj\Debug\Компилятор.csproj.CopyComplete
